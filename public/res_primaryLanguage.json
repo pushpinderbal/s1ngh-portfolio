@@ -1,0 +1,52 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "You can add your descripiton in This box",
+      "section_name": {
+        "about": "About me",
+        "projects": "BLOG",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [ ],
+    "experience": [
+      {
+        "company": "Fortinet",
+        "title": "Technical Support Engineer",
+        "years": "2021 - present",
+        "mainTech": [
+          "Network Security"
+        ],
+        "technologies": [
+          "TCP/IP",
+          "BGP",
+          "OSPF",
+          "IPS/IDS",
+          "FortiGate",
+          "FortiClient",
+          "SD-WAN",
+          "IPSec",
+          "GRE",
+          "SAML, LDAP, RADIUS"
+        ]
+      },
+      {
+        "company": "Upland Software",
+        "title": "IT Systems Administrator",
+        "years": "(September 2018-March 2021)",
+        "mainTech": [
+          "sysadmin"
+        ],
+        "technologies": [
+          "Linux",
+          "Windows",
+          "Active Directory",
+          "VoiP - Cisco, Asterisk",
+          "Puppet",
+          "Scripting",
+          "Office 365"
+        ]
+      }
+    ]
+  }

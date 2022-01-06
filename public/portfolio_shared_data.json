@@ -1,0 +1,97 @@
+{
+    "basic_info": {
+      "name": "Pushpinder Singh",
+      "titles": [ "Network Engineer", "Systems Administrator"],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com",
+          "class": "fab fa-instagram"
+        },
+        {
+          "name": "twitter",
+          "url": "https://twitter.com/home?lang=en",
+          "class": "fab fa-twitter"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/",
+          "class": "fab fa-linkedin"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "TCP / IP",
+          "level": "95"
+        },
+        {
+          "name": "Networking",
+          "level": "95"
+        },
+        {
+          "name": "VMWare",
+          "level": "80"
+        },
+        {
+          "name": "KVM",
+          "level": "90"
+        },
+        {
+          "name": "AWS",
+          "level": "70"
+        },
+        {
+          "name": "Azure",
+          "level": "75"
+        },
+        {
+          "name": "Docker",
+          "level": "85"
+        },
+        {
+          "name": "Fortinet",
+          "level": "65"
+        },
+        {
+          "name": "Linux",
+          "level": "60"
+        },
+        {
+          "name": "Windows",
+          "level": "60"
+        },
+        {
+          "name": "Bash",
+          "level": "60"
+        },
+        {
+          "name": "Powershell",
+          "level": "60"
+        },
+        {
+          "name": "VoIP",
+          "level": "60"
+        },
+        {
+          "name": "Iaac",
+          "level": "60"
+        },
+        {
+          "name": "Database",
+          "level": "60"
+        },
+        {
+          "name": "Storage Administration",
+          "level": "60"
+        }
+      ]
+    }
+  }

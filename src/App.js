@@ -139,7 +139,10 @@ class App extends Component {
           resumeBasicInfo={this.state.resumeData.basic_info}
         />
 
-        <Certification />
+        <Certification
+          resumeCertification={this.state.resumeData.certification}
+          resumeBasicInfo={this.state.resumeData.basic_info} 
+        />
         <Footer sharedBasicInfo={this.state.sharedData.basic_info} />
       </div>
     );

@@ -6,7 +6,8 @@
         "about": "About Me",
         "projects": "Blog",
         "skills": "Skills",
-        "experience": "Experience"
+        "experience": "Experience",
+        "certification": "Certifications"
       }
     },
     "projects": [ ],
@@ -49,6 +50,24 @@
           "Scripting",
           "Office365"
         ]
+      }
+    ],
+    "certification": [
+      {
+        "name": "RHCSA",
+        "badge": "https://s3.ca-central-1.amazonaws.com/s1ngh.ca/images/rhcsa.png"
+      },
+      {
+        "name": "CCNA",
+        "badge": "https://s3.ca-central-1.amazonaws.com/s1ngh.ca/images/ccna.png"
+      },
+      {
+        "name": "AWS Solutions Architect",
+        "badge": "https://s3.ca-central-1.amazonaws.com/s1ngh.ca/images/saac02.png"
+      },
+      {
+        "name": "Fortinet NSE 7",
+        "badge": "https://s3.ca-central-1.amazonaws.com/s1ngh.ca/images/nse7.png"
       }
     ]
   }

@@ -29,67 +29,43 @@
     "skills": {
       "icons": [
         {
-          "name": "TCP / IP",
-          "level": "95"
-        },
-        {
-          "name": "Networking",
-          "level": "95"
-        },
-        {
-          "name": "VMWare",
-          "level": "80"
-        },
-        {
-          "name": "KVM",
-          "level": "90"
-        },
-        {
           "name": "AWS",
+          "class": "devicon-amazonwebservices-original",
           "level": "70"
         },
         {
           "name": "Azure",
+          "class": "devicon-azure-plain",
           "level": "75"
         },
         {
           "name": "Docker",
+          "class": "devicon-docker-plain",
           "level": "85"
         },
         {
-          "name": "Fortinet",
-          "level": "65"
-        },
-        {
           "name": "Linux",
+          "class": "devicon-linux-plain",
           "level": "60"
         },
         {
           "name": "Windows",
+          "class": "devicon-windows8-original",
           "level": "60"
         },
         {
           "name": "Bash",
+          "class": "devicon-bash-plain",
           "level": "60"
         },
         {
-          "name": "Powershell",
-          "level": "60"
-        },
-        {
-          "name": "VoIP",
-          "level": "60"
-        },
-        {
-          "name": "Iaac",
+          "name": "IaaC",
+          "class": "devicon-git-plain",
           "level": "60"
         },
         {
           "name": "Database",
-          "level": "60"
-        },
-        {
-          "name": "Storage Administration",
+          "class": "devicon-mysql-plain",
           "level": "60"
         }
       ]

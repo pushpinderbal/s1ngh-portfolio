@@ -3,8 +3,8 @@
       "description_header": "Hi",
       "description": "You can add your descripiton in This box",
       "section_name": {
-        "about": "About me",
-        "projects": "BLOG",
+        "about": "About Me",
+        "projects": "Blog",
         "skills": "Skills",
         "experience": "Experience"
       }
@@ -14,7 +14,7 @@
       {
         "company": "Fortinet",
         "title": "Technical Support Engineer",
-        "years": "2021 - present",
+        "years": "03.2021 - present",
         "mainTech": [
           "Network Security"
         ],
@@ -28,13 +28,15 @@
           "SD-WAN",
           "IPSec",
           "GRE",
-          "SAML, LDAP, RADIUS"
+          "SAML",
+          "LDAP",
+          "RADIUS"
         ]
       },
       {
         "company": "Upland Software",
         "title": "IT Systems Administrator",
-        "years": "(September 2018-March 2021)",
+        "years": "09.2018 - 03.2021",
         "mainTech": [
           "sysadmin"
         ],
@@ -42,10 +44,10 @@
           "Linux",
           "Windows",
           "Active Directory",
-          "VoiP - Cisco, Asterisk",
+          "VoIP",
           "Puppet",
           "Scripting",
-          "Office 365"
+          "Office365"
         ]
       }
     ]

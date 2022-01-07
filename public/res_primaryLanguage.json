@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hello !  ",
-      "description": "My name is Pushpinder. I lived in my hometown Amritsar, Punjab, India before moving to Ottawa, Canada in 2017 and have been living in the Canadian captial since then. My professional experience includes working as a system and network administration. I am also a cloud and linux enthusiast and like playing with new technology. This is a minimal website containing part of my professional information. There's also an external blog linked below which is a collection of tech articles I have documented.",
+      "description": "My name is Pushpinder. I am from Amritsar, Punjab, India and currently live in Ottawa, Canada 2017. My professional experience includes working as a system and network administration. I am also a cloud and linux enthusiast and like playing with new technology. This is a minimal website containing part of my professional information. There's also an external blog linked below which is a collection of tech articles I have documented.",
       "section_name": {
         "about": "About Me",
         "projects": "Blog",
@@ -32,7 +32,8 @@
           "SAML",
           "LDAP",
           "RADIUS"
-        ]
+        ],
+        "class": "fas fa-ethernet experience-icon"
       },
       {
         "company": "Upland Software",
@@ -49,7 +50,8 @@
           "Puppet",
           "Scripting",
           "Office365"
-        ]
+        ],
+        "class": "fas fa-server experience-icon"
       }
     ],
     "certification": [

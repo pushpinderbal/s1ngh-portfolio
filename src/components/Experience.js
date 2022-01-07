@@ -37,7 +37,7 @@ class Experience extends Component {
               color: "#fff",
               textAlign: "center",
             }}
-            icon={<i className="fas fa-user-shield experience-icon"></i>}
+            icon={<i className={work.class}></i>}
             key={i}
           >
             <div style={{ textAlign: "left", marginBottom: "4px" }}>

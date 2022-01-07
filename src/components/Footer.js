@@ -21,10 +21,7 @@ class Footer extends Component {
 
           <div className="copyright py-4 text-center">
             <div className="container">
-              <small><a href="site.html" target="_blank" rel="noopener noreferrer">About this site</a> | Copyright &copy;{" "}
-                {this.props.sharedBasicInfo
-                  ? this.props.sharedBasicInfo.name
-                  : "???"}
+              <small><a href="site.html" target="_blank" rel="noopener noreferrer">About this site</a> | ਏਹਿ ਭਿ ਦਾਤਿ ਤੇਰੀ ਦਾਤਾਰ।।
               </small>
             </div>
           </div>

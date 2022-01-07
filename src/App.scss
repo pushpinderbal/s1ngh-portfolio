@@ -446,24 +446,23 @@ footer a:focus {
 	position: relative;
 }
 
+#cert-badge-tile {
+	margin: 0px 40px 0px 0px;
+}
 
 @media screen and (max-width: 800px)  {
 	.certification > img {
-		width: 150px;
-		height: 150px;
+		width: 120px;
+		height: 120px;
 	}
-
-	.certificate-section {
-		display: flex;
-		flex-direction: column;
-		justify-content: space-around;
-		align-items: center;
-		height: 100vh;
-	}
-
 	.certification {
 		display: flex;
-		
+		flex-direction: row;
+		flex-wrap: wrap;
+		justify-content: normal;	
+	}
+	#cert-badge-tile {
+		margin: 0 10px;
 	}
 }
 
@@ -481,8 +480,4 @@ footer a:focus {
 	justify-content: center;
 	align-items: center;
 	margin: 0 auto;
-}
-
-#cert-badge-tile {
-	margin: 0px 40px 0px 0px;
 }

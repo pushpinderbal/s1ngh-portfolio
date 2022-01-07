@@ -5,7 +5,7 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 import About from "./components/About";
 import Experience from "./components/Experience";
-import Projects from "./components/Projects";
+import Blog from "./components/Blog";
 import Skills from "./components/Skills";
 import Certification from "./components/Certification";
 
@@ -126,7 +126,7 @@ class App extends Component {
           resumeBasicInfo={this.state.resumeData.basic_info}
           sharedBasicInfo={this.state.sharedData.basic_info}
         />
-        <Projects
+        <Blog
           resumeProjects={this.state.resumeData.projects}
           resumeBasicInfo={this.state.resumeData.basic_info}
         />

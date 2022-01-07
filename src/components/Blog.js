@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 
 
-class Projects extends Component {
+class Blog extends Component {
   constructor(props) {
     super(props);
     this.state = {
@@ -11,32 +11,28 @@ class Projects extends Component {
   }
 
   render() {
-
-
-
-
         return (
       <div className="blogPage">
-                <div
+        <div
             className="col-sm-12 col-md-6 col-lg-4 externalLink"
             style={{ cursor: "pointer" }}
-          >
-             <h1 className="section-title" style={{ color: "black" }}>
-            <span>BLOG</span>
-          </h1>
-           <a href="https://www.w3schools.com/">
-           <span  className="portfolio-item d-block">
+        >
+          <h1 className="section-title" style={{ color: "black" }}>
+          <a href="https://blog.s1ngh.ca/">
+            <span  className="portfolio-item d-block">
               <div className="foto">
                 <div style={{background: "#7f7f7f"}}>
-                <i class="fa fa-external-link" style={{fontSize:"25px", color:"white"}}></i>
+                  <i class="fa fa-external-link" style={{fontSize:"25px", color:"white"}}></i>
                   <br />
                   <p className="project-title-settings mt-3">
-                    External Link
+                    BLOG
                   </p>
                 </div>
               </div>
             </span>
            </a>
+          </h1>
+
           </div>
       </div>
         );
@@ -47,4 +43,4 @@ class Projects extends Component {
   }
 }
 
-export default Projects;
+export default Blog;

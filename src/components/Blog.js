@@ -18,28 +18,23 @@ class Blog extends Component {
             style={{ cursor: "pointer" }}
         >
           <h1 className="section-title" style={{ color: "black" }}>
-          <a href="https://blog.s1ngh.ca/">
-            <span  className="portfolio-item d-block">
-              <div className="foto">
-                <div style={{background: "#7f7f7f"}}>
-                  <i class="fa fa-external-link" style={{fontSize:"25px", color:"white"}}></i>
-                  <br />
-                  <p className="project-title-settings mt-3">
-                    BLOG
-                  </p>
+            <a href="https://blog.s1ngh.ca/">
+              <span  className="portfolio-item d-block">
+                <div className="foto">
+                  <div style={{background: "#7f7f7f"}}>
+                    <i class="fa fa-external-link" style={{fontSize:"25px", color:"white"}}></i>
+                    <br />
+                    <p className="project-title-settings mt-3">
+                      BLOG
+                    </p>
+                  </div>
                 </div>
-              </div>
-            </span>
-           </a>
+              </span>
+            </a>
           </h1>
-
-          </div>
+        </div>
       </div>
         );
-
-    
-
-
   }
 }
 

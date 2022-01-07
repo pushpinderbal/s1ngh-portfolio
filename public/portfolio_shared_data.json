@@ -24,7 +24,7 @@
           "class": "fab fa-linkedin"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "https://s3.ca-central-1.amazonaws.com/s1ngh.ca/images/s1ngh_pic.jpg"
     },
     "skills": {
       "icons": [

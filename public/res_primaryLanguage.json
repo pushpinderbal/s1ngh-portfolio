@@ -66,6 +66,18 @@
         "badge": "https://s3.ca-central-1.amazonaws.com/s1ngh.ca/images/saac02.png"
       },
       {
+        "name": "Fortinet NSE 4",
+        "badge": "https://s3.ca-central-1.amazonaws.com/s1ngh.ca/images/nse4.png"
+      },
+      {
+        "name": "Fortinet NSE 5",
+        "badge": "https://s3.ca-central-1.amazonaws.com/s1ngh.ca/images/nse5.png"
+      },
+      {
+        "name": "Fortinet NSE 6",
+        "badge": "https://s3.ca-central-1.amazonaws.com/s1ngh.ca/images/nse6.png"
+      },
+      {
         "name": "Fortinet NSE 7",
         "badge": "https://s3.ca-central-1.amazonaws.com/s1ngh.ca/images/nse7.png"
       }

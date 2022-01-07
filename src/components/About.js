@@ -1,14 +1,14 @@
 import React, { Component } from "react";
 import { Icon } from "@iconify/react";
 
-import nanonetsIcon from '@iconify/icons-logos/nanonets';
-import linuxTux from '@iconify/icons-logos/linux-tux';
-import cloudinaryIcon from '@iconify/icons-logos/cloudinary';
+import networkingIcon from '@iconify/icons-dashicons/networking';
+import terminalLinux from '@iconify/icons-codicon/terminal-linux';
+import cloudIcon from '@iconify/icons-dashicons/cloud';
 
 class About extends Component {
   render() {
     if (this.props.sharedBasicInfo) {
-      var profilepic = "images/" + this.props.sharedBasicInfo.image;
+      var profilepic = this.props.sharedBasicInfo.image;
     }
     if (this.props.resumeBasicInfo) {
       var sectionName = this.props.resumeBasicInfo.section_name.about;
@@ -27,19 +27,21 @@ class About extends Component {
               <div className="polaroid">
                 <span style={{ cursor: "auto" }}>
                   <img
-                    height="250px"
+                    height="210px"
+        
+                    src={profilepic}
                     alt="Avatar placeholder"
                   />
                   <Icon
-                    icon={nanonetsIcon}
+                    icon={networkingIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
-                    icon={linuxTux}
+                    icon={terminalLinux}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
-                    icon={cloudinaryIcon}
+                    icon={cloudIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                 </span>

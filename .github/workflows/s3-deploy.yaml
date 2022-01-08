@@ -24,6 +24,8 @@ jobs:
 
       # Installs npm modules and complies the react app
       - name: Build React
+        env:
+          CI: false
         run: npm install && npm run build
       - name: Deploy app buiild to S3 bucket
         run: aws s3 sync ./build/ s3://s1ngh.ca --delete

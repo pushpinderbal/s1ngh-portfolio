@@ -1,4 +1,4 @@
-name: s3-deploy-s1ngh.ca
+name: s3-deploy-old.s1ngh.ca
 
 on:
   push:
